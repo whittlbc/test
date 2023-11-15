@@ -12,8 +12,8 @@ import {
     Timestamp,
 } from "@spec.dev/core";
 
-import { getStrategyContractGroup } from "../shared/contractCall.ts";
-import { generatePoolRoleIds } from "../shared/roles.ts";
+import { getStrategyContractGroup } from "../../shared/contractCall.ts";
+import { generatePoolRoleIds } from "../../shared/roles.ts";
 
 /**
  * All Pools created on Allo
