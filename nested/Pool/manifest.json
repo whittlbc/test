@@ -1,7 +1,7 @@
 {
     "namespace": "test",
     "name": "Pool",
-    "version": "0.0.2",
+    "version": "0.0.1",
     "displayName": "Allo Pools",
     "description": "All Pools created on Allo",
     "chains": [
